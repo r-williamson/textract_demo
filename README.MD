@@ -1,3 +1,5 @@
+Python Lab for Learning textract OCR 
+
 * For Windows: 
   * Install Tesseract-OCR, required for image OCR:
     https://tesseract-ocr.github.io/tessdoc/Installation.html
